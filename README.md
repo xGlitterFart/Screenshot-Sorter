@@ -79,5 +79,5 @@ Follow the GUI instructions.
 
 ## License
 
-MIT License – feel free to use and modify!
-
+Feel free to use, modify, and share!  
+_Disclaimer: Always backup your files before using this tool. The author is not responsible for any data loss._
