@@ -11,13 +11,18 @@ A simple tool to help organize your Final Fantasy XIV screenshots by date, locat
 - User-friendly GUI with options for moving or copying files
 - Works best with screenshots named using the Dalamud plugin **Sightseeingaway** (`First party plugin`) format:  
   `Timestamp (Readable) - Map/Zone Name - Character Name`
+- There are two options avaiable:
+  
+  Option 1: The application will create a structure in your folder where the photos are located and an archive folder will be created where all the photos will be placed (as a backup, so to speak)
+  
+  Option 2: You select a new folder where the structure should be created. Nothing is moved or deleted in your main folder (source folder). (Copy&Paste concept)
 
 ---
 
 ## How It Works
 
 1. Select your **source folder** containing your screenshots.
-2. Choose whether to move or copy the files to a new folder.
+2. Choose whether Option 1 or Option 2.
 3. The program will create an Archive folder in your source directory to keep backups.
 4. Screenshots will be sorted into a folder structure based on their filenames.
 
@@ -50,7 +55,7 @@ After running the tool, your screenshots will be organized like this:
 └── (any unsorted or unrecognized screenshots could stay here)
 ```
 
-(This is just an example: Folder will be based on your location in which you took the photos)
+(This is just an example: Folder will be based on your location and Date in which you took the photos)
 
 ---
 
