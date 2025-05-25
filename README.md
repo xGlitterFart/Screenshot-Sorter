@@ -49,6 +49,9 @@ After running the tool, your screenshots will be organized like this:
 │
 └── (any unsorted or unrecognized screenshots could stay here)
 ```
+
+(This is just an example: Folder will be based on your location in which you took the photos)
+
 ---
 
 ## Notes
