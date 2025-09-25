@@ -6,10 +6,8 @@ A simple tool to help organize your Final Fantasy XIV screenshots by date, locat
 
 ## Features
 
-# New
 - Chose themes
 - Add your own Watermark on your images
-  
 - Sorts screenshots into folders by **date → location → character name**
 - Creates an **Archive** folder with copies of all original screenshots as backup
 - User-friendly GUI with options for moving or copying files
